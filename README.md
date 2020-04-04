@@ -1,9 +1,13 @@
 # gisflotim
 Web Based GIS wisata Flores Timur - www.firstplato.com
 
+> Sistem Informasi Geografis Wisata Flores Timur
+
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
 
 SIG-FLOTIM
-> Sistem Informasi Geografis Wisata Flores Timur
+
+> Preview dan demo, cekidot https://youtu.be/l5TbflSqSCE atau coba langsung di https://lab.firstplato.com/gisflotim
 
 Fitur :
 
