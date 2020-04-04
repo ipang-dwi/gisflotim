@@ -52,3 +52,16 @@ Minimum Requirements :
 - Webserver dengan PHP 7.x dan MySql 5.x atau MariaDB 10.x
 - SSL bila diletakkan pada Server / VPS
 - GMap API Key *pastikan untuk mengaktifkan semua API library yang diperlukan pada console GCP
+
+Sangat cocok untuk dipelajari dan dikembangkan lagi. Terutama bagi yang ingin mempelajari atau mengembangkan :
+- kemampuan pemrograman web dengan PHP, OOP dan framework codeigniter untuk backend, dan Bootsrap untuk frontend
+- penerapan RESTFUlL API, dalam hal ini GMap API - Google Map API
+- mempelajari berbagai product dan cara kerja GCP - Google Cloud Platform
+- teknologi yang diberikan Google Developer Partner, untuk para developer, khususnya yang berbasis web
+
+> Aplikasi ini opensource namun bukan freeware. Silahkan WA ke o856 48587 856, untuk melakukan donasi. Bagi yang belum memiliki akun GCP, akan dipandu hingga bisa terverifikasi.
+
+Feel free to reach me on :
+- https://www.firstplato.com
+- https://www.facebook.com/firstplato
+- admin@firstplato.com
