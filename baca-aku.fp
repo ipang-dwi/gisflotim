@@ -1,7 +1,3 @@
-# gisflotim
-Web Based GIS wisata Flores Timur - www.firstplato.com
-
-
 SIG-FLOTIM
 > Sistem Informasi Geografis Wisata Flores Timur
 
